@@ -1,0 +1,11 @@
+C:\Users\RAKHI\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookSearcher.csprojAssemblyReference.cache
+C:\Users\RAKHI\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookFinder.Properties.Resources.resources
+C:\Users\RAKHI\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookSearcher.csproj.GenerateResource.cache
+C:\Users\RAKHI\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookSearcher.csproj.CoreCompileInputs.cache
+C:\Users\RAKHI\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookFinder.exe
+C:\Users\RAKHI\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookFinder.pdb
+C:\Users\RAKHI\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookSearcher.Views.SearchForms.resources
+C:\Users\RAKHI\Downloads\BookFinder\BookFinder\BookFinder\bin\Debug\BookFinder.exe.config
+C:\Users\RAKHI\Downloads\BookFinder\BookFinder\BookFinder\bin\Debug\BookFinder.exe
+C:\Users\RAKHI\Downloads\BookFinder\BookFinder\BookFinder\bin\Debug\BookFinder.pdb
+C:\Users\RAKHI\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookSearcher.Views.BookDescription.resources
